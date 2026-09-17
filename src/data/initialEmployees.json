@@ -1,0 +1,69 @@
+[
+  {
+    "id": "EMP-001",
+    "name": "Sarah Jenkins",
+    "email": "sarah.jenkins@company.com",
+    "phone": "+1 (555) 234-5678",
+    "department": "Engineering",
+    "role": "Senior Full Stack Developer",
+    "salary": "95000",
+    "joinDate": "2022-03-15",
+    "status": "Active"
+  },
+  {
+    "id": "EMP-002",
+    "name": "Michael Chen",
+    "email": "michael.chen@company.com",
+    "phone": "+1 (555) 345-6789",
+    "department": "Design",
+    "role": "Lead UI/UX Designer",
+    "salary": "88000",
+    "joinDate": "2021-08-01",
+    "status": "Active"
+  },
+  {
+    "id": "EMP-003",
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@company.com",
+    "phone": "+1 (555) 456-7890",
+    "department": "Human Resources",
+    "role": "HR Manager",
+    "salary": "75000",
+    "joinDate": "2020-11-10",
+    "status": "Active"
+  },
+  {
+    "id": "EMP-004",
+    "name": "David Kim",
+    "email": "david.kim@company.com",
+    "phone": "+1 (555) 567-8901",
+    "department": "Marketing",
+    "role": "Digital Marketing Specialist",
+    "salary": "68000",
+    "joinDate": "2023-01-20",
+    "status": "On Leave"
+  },
+  {
+    "id": "EMP-005",
+    "name": "Jessica Taylor",
+    "email": "jessica.taylor@company.com",
+    "phone": "+1 (555) 678-9012",
+    "department": "Sales",
+    "role": "Account Executive",
+    "salary": "72000",
+    "joinDate": "2022-06-05",
+    "status": "Inactive"
+  },
+  {
+    "id": "EMP-006",
+    "name": "Alex Turner",
+    "email": "alex.turner@company.com",
+    "phone": "+1 (555) 789-0123",
+    "department": "Engineering",
+    "role": "DevOps Engineer",
+    "salary": "92000",
+    "joinDate": "2023-04-12",
+    "status": "Active"
+  }
+]
+
