@@ -1,4 +1,4 @@
-# 💼 EmpTrack Pro - Employee Management System
+# 💼 EmpTrack``````````````````````````````` - Employee Management System
 
 A modern, responsive, and full-featured **Employee Management System** built with **React**, **Redux Toolkit** for state management, **Material UI (MUI)** for UI components, and **JSON Storage** (`localStorage` persisted and initialized with structured JSON seed data).
 
@@ -43,7 +43,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed (v18 or higher recom
 
 1. **Clone or navigate to the project folder**:
    ```bash
-   cd employee-managment-system
+   git clone https://github.com/Krish-4444/Employee-Management-system
+   cd Employee-Management-system
    ```
 
 2. **Install dependencies**:
