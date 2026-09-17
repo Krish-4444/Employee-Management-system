@@ -1,4 +1,4 @@
-# 💼 EmpTrack``````````````````````````````` - Employee Management System
+# 💼 Employee Management System
 
 A modern, responsive, and full-featured **Employee Management System** built with **React**, **Redux Toolkit** for state management, **Material UI (MUI)** for UI components, and **JSON Storage** (`localStorage` persisted and initialized with structured JSON seed data).
 
